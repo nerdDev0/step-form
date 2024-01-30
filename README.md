@@ -1,3 +1,3 @@
 react App
 
-npm i install
+npm i 
