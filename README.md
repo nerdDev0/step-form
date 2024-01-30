@@ -1,7 +1,3 @@
-npm install @mui/material @emotion/react @emotion/styled
+react App
 
-npm install @mui/icons-material
-
-npm install stylis stylis-plugin-rtl
-
-
+npm i install
